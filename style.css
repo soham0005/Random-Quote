@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Roboto:wght@100&display=swap');
+.container {
+    margin-top: 80px;
+}
+/* .sentences{
+    margin-top: 120px;
+} */
+.quoteAuthor{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    padding: 5px;
+  
+}
+
+#author{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color: aliceblue;
+}
+#quote{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color:whitesmoke;
+}
+
+button{
+    width: 50%;
+    margin-left: 310px;
+}
